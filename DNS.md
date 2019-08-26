@@ -7,4 +7,4 @@
 
 sudo nano /etc/resolv.conf
 
-Подробнее с картинками по ссылке <a href="http://pyatilistnik.org/kak-v-centos-6-7-nastroit-staticheskiy-ip-adres/">Как DNS на сетевом интерфейсе CentOS 7</a>
+Подробнее с картинками по ссылке <a href="http://pyatilistnik.org/kak-v-centos-6-7-nastroit-staticheskiy-ip-adres/">Как настроить DNS на сетевом интерфейсе CentOS 7</a>
