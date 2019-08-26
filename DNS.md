@@ -5,4 +5,6 @@
 
 Откройте файл resolv.conf в редакторе, например nano, для внесения необходимых изменений. Если файл еще не существует, эта команда создает его:
 
-sudo nano /etc/resolv.conf <a href="http://pyatilistnik.org/kak-v-centos-6-7-nastroit-staticheskiy-ip-adres/">Как DNS на сетевом интерфейсе CentOS 7</a>
+sudo nano /etc/resolv.conf
+
+Подробнее с картинками по ссылке <a href="http://pyatilistnik.org/kak-v-centos-6-7-nastroit-staticheskiy-ip-adres/">Как DNS на сетевом интерфейсе CentOS 7</a>
